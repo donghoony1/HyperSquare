@@ -36,6 +36,7 @@ Learn more at LICENSE.
 - Deploying on multi zone.
 - Deploying with Cloud-init.
 - Custom style with EJS.
+- Governance with Elastic Stack.
 - (Additional contract required)Sellers' mode for commerce.
 
 ## Technical specifications
@@ -46,4 +47,6 @@ Learn more at LICENSE.
 - [Amazon DynamoDB](https://aws.amazon.com/dynamodb)
 - [AWS SAM(Serverless Application Model)](https://aws.amazon.com/serverless/sam)
 - [Docker](https://www.docker.com)
+- [Elastic Stack](https://www.elastic.co/elastic-stack)
+- [Cloud-init](https://cloudinit.readthedocs.io)
 - [EJS](https://ejs.co)
